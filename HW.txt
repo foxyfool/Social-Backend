@@ -1,0 +1,6 @@
+Blogging app
+
+1 define Routes for creating (/posts/create (path))and retreiving(/posts(path))
+2 Define routes for liking(/likes/like) and unliking posts (/likes/unlikes)
+3 define Route for creating(/comments/create) & retriving (/comments)
+ 
